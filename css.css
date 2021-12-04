@@ -7,3 +7,11 @@ h1{
 {
     background-color: rgb(232, 255, 196);
 }
+#cabecera
+{
+    background: rgb(127, 127, 216);
+    color: white;
+    margin: 0;
+    text-align: center;
+    padding: 0.5em;
+}
